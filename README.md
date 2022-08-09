@@ -22,7 +22,7 @@
 
 ### 3. NationalPark
 
-![image](./img/nationalPark.png)
+![image](./img/nationalpark.png)
 
 <br>
 
