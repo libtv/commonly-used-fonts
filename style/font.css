@@ -1,0 +1,177 @@
+@font-face {
+    font-family: "Orbitron";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../font/eng/orbitron/yMJMMIlzdpvBhQQL_SC3X9yhF25-T1nyGy6BoWgz.woff2") format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* Morena */
+@font-face {
+    font-family: "Morena";
+    font-style: normal;
+    font-weight: 700;
+    src: local("Morena Bold"), local("Morena-Bold"), url("../font/eng/morena/Morena-Bold.otf") format("woff2"), url("../font/eng/morena/Morena-Bold.otf") format("woff");
+}
+@font-face {
+    font-family: "Morena";
+    font-style: normal;
+    font-weight: 600;
+    src: local("Morena Semibold"), local("Morena-Semibold"), url("../font/eng/morena/Morena-Semibold.otf") format("woff2"), url("../font/eng/morena/Morena-Semibold.otf") format("woff");
+}
+@font-face {
+    font-family: "Morena";
+    font-style: normal;
+    font-weight: 300;
+    src: local("Morena Light"), local("Morena-Light"), url("../font/eng/morena/Morena-Light.otf") format("woff2"), url("../font/eng/morena/Morena-Light.otf") format("woff");
+}
+@font-face {
+    font-family: "Morena";
+    font-style: normal;
+    font-weight: 200;
+    src: local("Morena ExtraLight"), local("Morena-ExtraLight"), url("../font/eng/morena/Morena-ExtraLight.otf") format("woff2"), url("../font/eng/morena/Morena-ExtraLight.otf") format("woff");
+}
+
+/* national Park */
+@font-face {
+    font-family: "NationalPark";
+    font-style: normal;
+    font-weight: 800;
+    src: local("NationalPark ExtraBold"), local("NationalPark-ExtraBold"), url("../font/eng/national/NationalPark-ExtraBold.otf") format("woff2"), url("../font/eng/national/NationalPark-ExtraBold.otf") format("woff");
+}
+@font-face {
+    font-family: "NationalPark";
+    font-style: normal;
+    font-weight: 700;
+    src: local("NationalPark Bold"), local("NationalPark-Bold"), url("../font/eng/national/NationalPark-Bold.otf") format("woff2"), url("../font/eng/national/NationalPark-Bold.otf") format("woff");
+}
+@font-face {
+    font-family: "NationalPark";
+    font-style: normal;
+    font-weight: 600;
+    src: local("NationalPark Semibold"), local("NationalPark-Semibold"), url("../font/eng/national/NationalPark-SemiBold.otf") format("woff2"), url("../font/eng/national/NationalPark-SemiBold.otf") format("woff");
+}
+@font-face {
+    font-family: "NationalPark";
+    font-style: normal;
+    font-weight: 500;
+    src: local("NationalPark Medium"), local("NationalPark-Medium"), url("../font/eng/national/NationalPark-Medium.otf") format("woff2"), url("../font/eng/national/NationalPark-Medium.otf") format("woff");
+}
+@font-face {
+    font-family: "NationalPark";
+    font-style: normal;
+    font-weight: 300;
+    src: local("NationalPark Light"), local("NationalPark-Light"), url("../font/eng/national/NationalPark-Light.otf") format("woff2"), url("../font/eng/national/NationalPark-Light.otf") format("woff");
+}
+@font-face {
+    font-family: "NationalPark";
+    font-style: normal;
+    font-weight: 200;
+    src: local("NationalPark ExtraLight"), local("NationalPark-ExtraLight"), url("../font/eng/national/NationalPark-ExtraLight.otf") format("woff2"), url("../font/eng/national/NationalPark-ExtraLight.otf") format("woff");
+}
+@font-face {
+    font-family: "NationalPark";
+    font-style: normal;
+    font-weight: 100;
+    src: local("NationalPark Regular"), local("NationalPark-Regular"), url("../font/eng/national/NationalPark-Regular.otf") format("woff2"), url("../font/eng/national/NationalPark-Regular.otf") format("woff");
+}
+
+/* Roboto */
+@font-face {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: local("Roboto Black"), local("Roboto-Black"), url("../font/eng/national/Roboto-ExtraBold.otf") format("woff2"), url("../font/eng/national/Roboto-ExtraBold.otf") format("woff");
+}
+@font-face {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: local("Roboto Bold"), local("Roboto-Bold"), url("../font/eng/roboto/Roboto-Bold.ttf") format("woff2"), url("../font/eng/roboto/Roboto-Bold.ttf") format("woff");
+}
+@font-face {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local("Roboto Medium"), local("Roboto-Medium"), url("../font/eng/roboto/Roboto-Medium.ttf") format("woff2"), url("../font/eng/roboto/Roboto-Medium.ttf") format("woff");
+}
+@font-face {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: local("Roboto Light"), local("Roboto-Light"), url("../font/eng/roboto/Roboto-Light.ttf") format("woff2"), url("../font/eng/roboto/Roboto-Light.ttf") format("woff");
+}
+@font-face {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 200;
+    font-display: swap;
+    src: local("Roboto Regular"), local("Roboto-Regular"), url("../font/eng/roboto/Roboto-Regular.ttf") format("woff2"), url("../font/eng/roboto/Roboto-Regular.ttf") format("woff");
+}
+@font-face {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src: local("Roboto Thin"), local("Roboto-Thin"), url("../font/eng/roboto/Roboto-Thin.ttf") format("woff2"), url("../font/eng/roboto/Roboto-Thin.ttf") format("woff");
+}
+
+/* Gmarket Sans */
+@font-face {
+    font-family: "Gmarket Sans";
+    font-style: normal;
+    font-weight: 700;
+    src: local("Gmarket Sans Bold"), local("GmarketSans-Bold"), url("../font/kor/gmarket/GmarketSansBold.otf") format("woff2"), url("../font/kor/gmarket/GmarketSansBold.otf") format("woff");
+}
+@font-face {
+    font-family: "Gmarket Sans";
+    font-style: normal;
+    font-weight: 500;
+    src: local("Gmarket Sans Medium"), local("GmarketSans-Medium"), url("../font/kor/gmarket/GmarketSansMedium.otf") format("woff2"), url("../font/kor/gmarket/GmarketSansMedium.otf") format("woff");
+}
+@font-face {
+    font-family: "Gmarket Sans";
+    font-style: normal;
+    font-weight: 300;
+    src: local("Gmarket Sans Light"), local("GmarketSans-Light"), url("../font/kor/gmarket/GmarketSansLight.otf") format("woff2"), url("../font/kor/gmarket/GmarketSansLight.otf") format("woff");
+}
+
+/* Jalnan */
+@font-face {
+    font-family: "Jalnan";
+    font-style: normal;
+    font-weight: normal;
+    src: local("Jalnan"), local("Jalnan"), url("../font/kor/jalnan/JalnanOTF.otf") format("woff2"), url("../font/kor/jalnan/JalnanOTF.otf") format("woff");
+}
+
+/* Tmon */
+@font-face {
+    font-family: "Monsori";
+    font-style: normal;
+    font-weight: normal;
+    src: local("Monsori"), local("Monsori"), url("../font/kor/tmon/TmonMonsori.otf.otf") format("woff2"), url("../font/kor/tmon/TmonMonsori.otf.otf") format("woff");
+}
+
+/* cafe24 */
+@font-face {
+    font-family: "Cafe24";
+    src: url("../font/kor/cafe24/Cafe24Oneprettynight.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*
+ * Iropke Batang (Korean)
+ * http://font.iropke.com/batang/
+ */
+@font-face {
+    font-family: "Iropke Batang";
+    font-style: normal;
+    font-weight: 400;
+    src: url("../font/kor/iropke-batang/IropkeBatangM.eot");
+    src: url("../font/kor/iropke-batang/IropkeBatangM.eot?#iefix") format("embedded-opentype"), url("../font/kor/iropke-batang/IropkeBatangM.woff") format("woff"), url("../font/kor/iropke-batang/IropkeBatangM.ttf") format("truetype");
+}
